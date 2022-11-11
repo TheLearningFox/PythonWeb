@@ -1,0 +1,1 @@
+I created a virtual environment here, but did not activated it nor did I installed django in it.
